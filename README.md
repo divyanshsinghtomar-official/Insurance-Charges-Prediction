@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Insurance Charges Predictor
+# Insurance Charges Predictor
 
 ### *A Machine Learning Pipeline for Medical Cost Prediction*
 
